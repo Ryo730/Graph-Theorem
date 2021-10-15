@@ -1,4 +1,4 @@
-# Social information network
+Social information network
 my major in college
 
 
